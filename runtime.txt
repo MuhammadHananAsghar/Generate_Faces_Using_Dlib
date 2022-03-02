@@ -1,0 +1,2 @@
+Python Version: Python 3.7.0
+Dlib Version: 19.23.0
